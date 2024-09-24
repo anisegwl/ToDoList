@@ -1,1 +1,6 @@
-I learned python and i am learning github as well so i am just making this for my easiness
+Made TodoList using simple python things we can learn from here is 
+ 1. Looping 
+ 2. Conditional statement
+ 3. Indexing, Push and Pop 
+
+ 
